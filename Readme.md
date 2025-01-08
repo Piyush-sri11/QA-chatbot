@@ -68,7 +68,7 @@ llm = ChatGroq(
 ```
 ## OpenAI Configuration (Commented Out)
 
-OpenAI Configuration (Commented Out)
+To use OpenAI's models (requires API credits):
 
 ```bash
 llm = ChatOpenAI(

@@ -15,8 +15,7 @@ A Question-Answering chatbot built using RAG (Retrieval-Augmented Generation) wi
 
 #### 1.Clone the repository:
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/Piyush-sri11/QA-chatbot.git
 ```
 
 #### 2.Create and activate a virtual environment:

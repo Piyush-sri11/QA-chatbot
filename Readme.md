@@ -115,4 +115,4 @@ Enter your question:
 
 ## Corpus Information
 
--See `corpus_info.md` for detailed information about the Jessup Cellars knowledge base used in this project.
+- See `corpus_info.md` for detailed information about the Jessup Cellars knowledge base used in this project.

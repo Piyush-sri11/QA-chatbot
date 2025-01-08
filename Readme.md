@@ -4,12 +4,12 @@ A Question-Answering chatbot built using RAG (Retrieval-Augmented Generation) wi
 
 ## Features
 
--RAG-based question answering
--Conversation memory to maintain context
--Support for multiple LLM options (Groq, OpenAI)
--Vector store options (Pinecone, FAISS)
--Environment variable configuration
--Flexible embedding models (HuggingFace, OpenAI)
+- RAG-based question answering
+- Conversation memory to maintain context
+- Support for multiple LLM options (Groq, OpenAI)
+- Vector store options (Pinecone, FAISS)
+- Environment variable configuration
+- Flexible embedding models (HuggingFace, OpenAI)
 
 ## Installation
 
